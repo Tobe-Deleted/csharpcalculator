@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olive\\Documents\\kodehode\\csharpcalculator\\csharpcalculator.csproj": {}
+    "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olive\\Documents\\kodehode\\csharpcalculator\\csharpcalculator.csproj": {
+    "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olive\\Documents\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
+        "projectUniqueName": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
         "projectName": "csharpcalculator",
-        "projectPath": "C:\\Users\\Olive\\Documents\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
-        "packagesPath": "C:\\Users\\Olive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olive\\Documents\\kodehode\\csharpcalculator\\obj\\",
+        "projectPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
+        "packagesPath": "C:\\Users\\olli9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Olive\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\olli9\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

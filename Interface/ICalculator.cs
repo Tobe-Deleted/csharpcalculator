@@ -31,4 +31,12 @@ public interface ICalculator
     /// <param name="NumberB"></param>
     /// <returns>NumberA / NumberB</returns>
     double DivideNumbers(double NumberA, double NumberB);
+
+    /// <summary>
+    /// Times a number with itself the amount of times specified by NumberB
+    /// </summary>
+    /// <param name="NumberA"></param>
+    /// <param name="NumberB"></param>
+    /// <returns>NumberA ^ NumberB</returns>     
+    public double Potency(double NumberA, double NumberB);
 }

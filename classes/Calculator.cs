@@ -19,4 +19,8 @@ public class Calculator : ICalculator
     {
         return NumberA / NumberB;
     }
+    public double Potency(double NumberA, double NumberB)
+    {
+        return Math.Pow(NumberA, NumberB);
+    }
 }
