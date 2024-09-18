@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
+      "projectUniqueName": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator – Kopi\\csharpcalculator.csproj",
       "projectName": "csharpcalculator",
-      "projectPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\csharpcalculator.csproj",
+      "projectPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator – Kopi\\csharpcalculator.csproj",
       "packagesPath": "C:\\Users\\olli9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator\\obj\\",
+      "outputPath": "C:\\Users\\olli9\\VSC\\kodehode\\csharpcalculator – Kopi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olli9\\AppData\\Roaming\\NuGet\\NuGet.Config"
