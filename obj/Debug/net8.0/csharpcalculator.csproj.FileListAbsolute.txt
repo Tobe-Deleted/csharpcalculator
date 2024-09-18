@@ -1,0 +1,14 @@
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.AssemblyInfoInputs.cache
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.AssemblyInfo.cs
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.csproj.CoreCompileInputs.cache
+C:\Users\olli9\VSC\kodehode\csharpcalculator\bin\Debug\net8.0\csharpcalculator.exe
+C:\Users\olli9\VSC\kodehode\csharpcalculator\bin\Debug\net8.0\csharpcalculator.deps.json
+C:\Users\olli9\VSC\kodehode\csharpcalculator\bin\Debug\net8.0\csharpcalculator.runtimeconfig.json
+C:\Users\olli9\VSC\kodehode\csharpcalculator\bin\Debug\net8.0\csharpcalculator.dll
+C:\Users\olli9\VSC\kodehode\csharpcalculator\bin\Debug\net8.0\csharpcalculator.pdb
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.dll
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\refint\csharpcalculator.dll
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.pdb
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\csharpcalculator.genruntimeconfig.cache
+C:\Users\olli9\VSC\kodehode\csharpcalculator\obj\Debug\net8.0\ref\csharpcalculator.dll
